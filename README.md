@@ -16,6 +16,8 @@ Comand para correr el proyecto:
 1- En la carpeta raiz frontdev abrir la consola y 
 ejecutar npm install.
 
-2- Luego ng serve -o para ver el proyecto corriendo
+2- ng analytics disable
+
+3- Luego ng serve -o para ver el proyecto corriendo
 en el navegador.
 
